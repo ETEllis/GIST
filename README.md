@@ -39,7 +39,7 @@ latching a false conclusion. Everything here is native
 code of GIST's own, machine-checked**.
 
 ```bash
-git clone https://github.com/ETEllis/gist && cd gist
+git clone https://github.com/ETEllis/GIST && cd gist
 ./demo.sh          # 60 seconds: verify -> do() -> train -> evaluate -> judge
 ./run.sh '+0-'     # one verdict from the natively-trained weights
 ```
