@@ -14,3 +14,6 @@ oracle/
 
 # construction-tier training harness (local only; results quoted in paper)
 torchcdc/
+
+# local tooling state
+.omx/
